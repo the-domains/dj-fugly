@@ -1,7 +1,7 @@
 name: DJ FUGLY
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.21321
+layout_spectrum: 0.7641119072213769
+typography_spectrum: 0.9756264740135521
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#81b400'
-    - '#00cf3a'
-    - '#ffffff'
-    - '#364b00'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 1
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5748955274466425
+  lightness: 0.5375675659161061
+  saturation: 0.493672588840127
+  rhythmicContrast: 0.974774596048519
 purpose: []
